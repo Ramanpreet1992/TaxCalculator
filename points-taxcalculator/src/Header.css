@@ -1,0 +1,12 @@
+.header-nav
+{
+    background-color:rgb(46, 6, 6);
+    font-size: 30pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    display: flex; 
+    padding-left:40px;
+    justify-content: left;
+}
+
+

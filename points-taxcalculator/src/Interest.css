@@ -1,0 +1,49 @@
+/* To display the data in a consistent manner such that padding and margin
+is consistent among each element*/ 
+ul{
+    list-style-type: none;
+    display:flex;
+    justify-content: center;
+    flex-wrap:flex-around;
+    padding: 1px 1px;
+    font-size: 20px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    gap:5px;
+    ;
+}
+ul input{
+    padding:5px;
+    display:block;
+    border:none;
+    border-bottom:1px solid #ccc;
+}
+
+ul li{
+font-size: 18px;
+}
+
+ul p{
+    justify-content: center;
+    display: block;
+    font-size: 18px;
+    margin: 1px ;
+    padding: 1px;
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    width:100px;
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+input[type=submit]:hover
+{
+
+    display:block;
+    background-color: rgb(46, 6, 6);;
+    color:white;
+}
