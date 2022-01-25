@@ -5,7 +5,7 @@ Requirements
   1). Docker should be up and running and run the below commands to fetch the data from the test server.
     docker pull ptsdocker16/interview-test-server
     docker run --init -p 5000:5000 -it ptsdocker16/interview-test-server
-    
+     
 
 
 # Build UI and Implementation
