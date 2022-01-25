@@ -1,6 +1,14 @@
 # TaxCalculator
 
-# Build
+Requirements
+
+  1). Docker should be up and running and run the below commands to fetch the data from the test server.
+    docker pull ptsdocker16/interview-test-server
+    docker run --init -p 5000:5000 -it ptsdocker16/interview-test-server
+    
+
+
+# Build UI and Implementation
 This Tax Calculator is built with the help of react JS. Following libraries are used:
   
   1)Axios is used to fetch the API data.
@@ -28,7 +36,7 @@ This Tax Calculator is built with the help of react JS. Following libraries are 
 If the API data is not fetched properly, a user friendly message is thrown. As in the image below.
 ![image](https://user-images.githubusercontent.com/56839995/150908344-99282e12-975c-42c4-aa8a-c9e50a3d46df.png)
 
-#Test
+# Test
 
 A test case was written in App.test.js to test if the test works without crashing. 
 
