@@ -43,5 +43,6 @@ A test case was written in App.test.js to test if the test works without crashin
 # To run this app
 
 Download the code and from the project directory points-taxcalculator 
-    1).use npm start to run this app or use npm run build and serve -s build.
+    1).use npm start to run this app or
+    2).use npm run build and serve -s build.
 
