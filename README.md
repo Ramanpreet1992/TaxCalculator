@@ -46,3 +46,4 @@ Download the code and from the project directory points-taxcalculator
     1).use npm start to run this app or
     2).use npm run build and serve -s build.
 
+The app will run on your local server.
