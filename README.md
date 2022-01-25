@@ -40,3 +40,8 @@ If the API data is not fetched properly, a user friendly message is thrown. As i
 
 A test case was written in App.test.js to test if the test works without crashing. 
 
+# To run this app
+
+Download the code and from the project directory points-taxcalculator 
+    1).use npm start to run this app or use npm run build and serve -s build.
+
