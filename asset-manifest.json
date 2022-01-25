@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/points-taxcalculator/static/css/main.1ba6d633.css",
+    "main.js": "/points-taxcalculator/static/js/main.5e570c1f.js",
+    "static/js/787.7e706f65.chunk.js": "/points-taxcalculator/static/js/787.7e706f65.chunk.js",
+    "index.html": "/points-taxcalculator/index.html",
+    "main.1ba6d633.css.map": "/points-taxcalculator/static/css/main.1ba6d633.css.map",
+    "main.5e570c1f.js.map": "/points-taxcalculator/static/js/main.5e570c1f.js.map",
+    "787.7e706f65.chunk.js.map": "/points-taxcalculator/static/js/787.7e706f65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba6d633.css",
+    "static/js/main.5e570c1f.js"
+  ]
+}
