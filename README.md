@@ -1,6 +1,6 @@
 # TaxCalculator
 
-Build
+#Build
 This Tax Calculator is built with the help of react JS. Following libraries are used:
   
   1)Axios is used to fetch the API data.
@@ -11,9 +11,11 @@ This Tax Calculator is built with the help of react JS. Following libraries are 
   
   Validations were made-
   
-  1).To ensure that the user only enters a number.
+  1).To ensure that the user only enters a number and could not enter any characters through key press event.
   
-  2).To restrict multiple clicks when the data is loading.
+  2).To restrict multiple clicks when the data is loading by disabling the submit button.
+  
+  3). Display the currency numbers with commas.
   
   Once the user enters the salary, the API fetches the proper data. If the applicable data is fetched without any error, following data is displayed.
    
@@ -26,7 +28,7 @@ This Tax Calculator is built with the help of react JS. Following libraries are 
 If the API data is not fetched properly, a user friendly message is thrown. As in the image below.
 ![image](https://user-images.githubusercontent.com/56839995/150908344-99282e12-975c-42c4-aa8a-c9e50a3d46df.png)
 
-Test
+#Test
 
-A test case was wriiten 
+A test case was written in App.test.js to test if the test works without crashing. 
 
