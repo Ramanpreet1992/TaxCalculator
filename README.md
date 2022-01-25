@@ -1,6 +1,6 @@
 # TaxCalculator
 
-#Build
+# Build
 This Tax Calculator is built with the help of react JS. Following libraries are used:
   
   1)Axios is used to fetch the API data.
